@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"description": "Blipp Title - description",
+	"main": "main.js",
+	"blipp" : {
+		"title": "Blipp Title - description",
+		"shortTitle": "Title",
+		"icon": "blipp_icon.png"
+	},
+	"dependencies": {
+		"blippar": "1.7.2"
+	}
+}
